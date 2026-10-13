@@ -1,0 +1,158 @@
+"""
+candidate_models.py — Data models for candidate collection, normalization, analysis, and eligibility decisions.
+Defines immutable, typed schemas representing the complete candidate lifecycle.
+"""
+
+from dataclasses import dataclass, field, asdict
+from enum import Enum
+from typing import List, Optional, Dict, Any
+from datetime import datetime
+
+
+class EligibilityDecision(str, Enum):
+    ELIGIBLE = "ELIGIBLE"
+    NEEDS_REVIEW = "NEEDS_REVIEW"
+    REJECTED = "REJECTED"
+
+
+@dataclass
+class ExperienceEntry:
+    title: str
+    company: str
+    start_date: str
+    end_date: str
+    duration_text: str = ""
+    location: Optional[str] = None
+    description: str = ""
+    skills_used: List[str] = field(default_factory=list)
+
+
+@dataclass
+class EducationEntry:
+    institution: str
+    degree: Optional[str] = None
+    field_of_study: Optional[str] = None
+    start_year: Optional[int] = None
+    end_year: Optional[int] = None
+
+
+@dataclass
+class CertificationEntry:
+    name: str
+    issuing_organization: str
+    issue_date: Optional[str] = None
+    expiration_date: Optional[str] = None
+    credential_id: Optional[str] = None
+    credential_url: Optional[str] = None
+
+
+@dataclass
+class ProjectEntry:
+    title: str
+    description: str = ""
+    start_date: Optional[str] = None
+    end_date: Optional[str] = None
+    url: Optional[str] = None
+    associated_with: Optional[str] = None
+
+
+@dataclass
+class NormalizedCandidateProfile:
+    """
+    Complete normalized candidate profile object harvested from all available sections.
+    Missing sections default cleanly without causing workflow failure.
+    """
+    # Core Identity & Header
+    full_name: str
+    linkedin_url: str
+    headline: str = "NOT_AVAILABLE"
+    location: str = "NOT_AVAILABLE"
+    current_title: str = "NOT_AVAILABLE"
+    current_company: str = "NOT_AVAILABLE"
+    connection_count: str = "NOT_AVAILABLE"
+    about: str = "NOT_AVAILABLE"
+
+    # Strictly Voluntary / Declared Personal Information
+    # Zero guessing: Date of birth and gender are stored ONLY when explicitly self-identified.
+    date_of_birth: str = "NOT_AVAILABLE"      # Explicit public date only; otherwise NOT_AVAILABLE
+    gender: str = "NOT_SPECIFIED"             # Explicit public declaration only; otherwise NOT_SPECIFIED
+    pronouns: str = "NOT_SPECIFIED"           # As declared (e.g. he/him, she/her, they/them)
+
+    # Complete Professional Timelines
+    experience_history: List[ExperienceEntry] = field(default_factory=list)
+    education: List[EducationEntry] = field(default_factory=list)
+    certifications: List[CertificationEntry] = field(default_factory=list)
+    skills: List[str] = field(default_factory=list)
+    projects: List[ProjectEntry] = field(default_factory=list)
+    languages: List[str] = field(default_factory=list)
+    volunteer: List[str] = field(default_factory=list)
+    featured_content: List[str] = field(default_factory=list)
+
+    # Contact Details
+    email: str = "NOT_AVAILABLE"
+    phone: str = "NOT_AVAILABLE"
+    websites: List[str] = field(default_factory=list)
+    github_url: str = "NOT_AVAILABLE"
+
+    # SignalHire Verified Enrichment (Populated strictly for AI-qualified candidates)
+    signalhire_phone: str = "NOT_AVAILABLE"
+    signalhire_email: str = "NOT_AVAILABLE"
+    signalhire_status: str = "NOT_AVAILABLE"
+
+    # Open To Work Indicators
+    is_open_to_work: bool = False
+    open_to_work_details: str = "NOT_AVAILABLE"
+
+    # Raw Payload Storage for Full Auditability & Future Re-Evaluation
+    raw_payload: Dict[str, Any] = field(default_factory=dict)
+    scraped_timestamp: str = field(default_factory=lambda: datetime.utcnow().isoformat())
+
+    def to_dict(self) -> Dict[str, Any]:
+        return asdict(self)
+
+
+@dataclass
+class CandidateAnalysisResult:
+    """
+    Outputs from the Candidate Analysis Engine after evaluating the entire professional history.
+    """
+    total_experience_years: float = 0.0
+    relevant_technology_years: float = 0.0
+    experience_bracket: str = "NOT_SPECIFIED"  # '>5 years (Senior)' or '<5 years (Junior/Mid)'
+    primary_professional_domain: str = "UNKNOWN"
+    technology_specialization: str = "GENERALIST"
+    skill_relevance_score: int = 0
+    seniority_level: str = "NOT_SPECIFIED"
+    highest_education: str = "NOT_SPECIFIED"
+    work_authorization: str = "Not Available"  # US Citizen, Green Card, H1B, or Not Available
+    security_clearance: str = "Not Available"  # TS/SCI, Secret, Public Trust, or Not Available
+    ta_fit_summary: str = "NOT_AVAILABLE"
+    ta_score: Optional[int] = None
+    red_flags: str = "None"
+    matched_skills: List[str] = field(default_factory=list)
+    missing_skills: List[str] = field(default_factory=list)
+
+    def to_dict(self) -> Dict[str, Any]:
+        return asdict(self)
+
+
+@dataclass
+class CandidateQualificationDecision:
+    """
+    Final decision outcome and reasoning generated by the Eligibility Rules Engine.
+    """
+    candidate: NormalizedCandidateProfile
+    analysis: CandidateAnalysisResult
+    decision: EligibilityDecision
+    decision_reasons: List[str] = field(default_factory=list)
+    failed_mandatory_rules: List[str] = field(default_factory=list)
+    review_reasons: List[str] = field(default_factory=list)
+    signalhire_phone: str = "NOT_AVAILABLE"
+    signalhire_email: str = "NOT_AVAILABLE"
+    signalhire_status: str = "NOT_AVAILABLE"
+    processed_timestamp: str = field(default_factory=lambda: datetime.utcnow().isoformat())
+
+    def to_dict(self) -> Dict[str, Any]:
+        res = asdict(self)
+        res["decision"] = self.decision.value
+        return res

@@ -1,0 +1,553 @@
+[
+  {
+    "raw_result": {
+      "title": "Deborah Silverman - GitHub",
+      "link": "https://github.com/debsilverman",
+      "snippet": "SAP BPC Consultant | USA | dsilverman@column5.com",
+      "email": "dsilverman@column5.com",
+      "location": "USA",
+      "skills": [
+        "EJS",
+        "Python"
+      ],
+      "years_of_experience": 5
+    },
+    "parsed_profile": {
+      "full_name": "Deborah Silverman",
+      "email": "dsilverman@column5.com",
+      "location": "USA",
+      "skills": [
+        "EJS",
+        "Python"
+      ],
+      "profile_url": "https://github.com/debsilverman",
+      "source_platform": "github",
+      "bio_text": "SAP BPC Consultant | USA | dsilverman@column5.com",
+      "years_of_experience": 5,
+      "linkedin_url": "https://www.linkedin.com/in/silvermandeborah",
+      "query": "SAP Consultant",
+      "security_clearance": "public trust"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Prabhasa Kalkur - GitHub",
+      "link": "https://github.com/prabhasak",
+      "snippet": "Another Machine Learning Enthusiast. Supply Chain Consultant at SAP America. Master's in Electrical Engineering from Texas A&M University. | Texas, USA | prabhasa.94@gmail.com",
+      "email": "prabhasa.94@gmail.com",
+      "location": "Texas, USA",
+      "skills": [
+        "HTML",
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "years_of_experience": 9
+    },
+    "parsed_profile": {
+      "full_name": "Prabhasa Kalkur",
+      "email": "prabhasa.94@gmail.com",
+      "location": "Texas, USA",
+      "skills": [
+        "HTML",
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "profile_url": "https://github.com/prabhasak",
+      "source_platform": "github",
+      "bio_text": "Another Machine Learning Enthusiast. Supply Chain Consultant at SAP America. Master's in Electrical Engineering from Texas A&M University. | Texas, USA | prabhasa.94@gmail.com",
+      "years_of_experience": 9,
+      "linkedin_url": "https://www.linkedin.com/in/prabhasa-kalkur",
+      "query": "SAP Consultant",
+      "security_clearance": ""
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Sai Chand Solleti - GitHub",
+      "link": "https://github.com/saichand999",
+      "snippet": "SAP Analytics Consultant | USA",
+      "email": null,
+      "location": "USA",
+      "skills": [
+        "Shell"
+      ],
+      "years_of_experience": 5
+    },
+    "parsed_profile": {
+      "full_name": "Sai Chand Solleti",
+      "email": null,
+      "location": "Hyderabad, Telangana, India",
+      "skills": [
+        "Shell"
+      ],
+      "profile_url": "https://github.com/saichand999",
+      "source_platform": "github",
+      "bio_text": "SAP Analytics Consultant | USA\nSai chand Solleti  JNTUH College of Engineering Hyderabad",
+      "years_of_experience": 5,
+      "linkedin_url": "https://in.linkedin.com/in/sai-chand-solleti-a42819224",
+      "github_url": "https://github.com/saichand999",
+      "query": "SAP Consultant"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Dzmitryi Kharlanau - GitHub",
+      "link": "https://github.com/dkharlanau",
+      "snippet": "Senior SAP SD / O2C Consultant | S/4HANA Logistics | Integration | Composable ERP (ROSA/Compose) | SAP S/4 Core + Open Integrations | No lock-in | USA",
+      "email": null,
+      "location": "USA",
+      "skills": [
+        "Python"
+      ],
+      "years_of_experience": 10
+    },
+    "parsed_profile": {
+      "full_name": "Dzmitryi Kharlanau",
+      "email": null,
+      "location": "USA",
+      "skills": [
+        "Python"
+      ],
+      "profile_url": "https://github.com/dkharlanau",
+      "source_platform": "github",
+      "bio_text": "Senior SAP SD / O2C Consultant | S/4HANA Logistics | Integration | Composable ERP (ROSA/Compose) | SAP S/4 Core + Open Integrations | No lock-in | USA",
+      "years_of_experience": 10,
+      "linkedin_url": "https://www.linkedin.com/in/dkharlanau",
+      "query": "SAP Consultant",
+      "security_clearance": "TS/SCI"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Pratik Soni - GitHub",
+      "link": "https://github.com/pratikabu",
+      "snippet": "SAP Commerce Cloud (hybris) consultant and open source lover. | MN, USA",
+      "email": null,
+      "location": "MN, USA",
+      "skills": [
+        "HTML",
+        "Java",
+        "JavaScript"
+      ],
+      "years_of_experience": 16
+    },
+    "parsed_profile": {
+      "full_name": "Pratik Soni",
+      "email": "pr@gmail.com.",
+      "location": "MN, USA",
+      "skills": [
+        "HTML",
+        "Java",
+        "JavaScript"
+      ],
+      "profile_url": "https://github.com/pratikabu",
+      "source_platform": "github",
+      "bio_text": "SAP Commerce Cloud (hybris) consultant and open source lover. | MN, USA",
+      "years_of_experience": 16,
+      "linkedin_url": null,
+      "query": "SAP Consultant",
+      "security_clearance": "secret"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Kumar Azhagesan a.k.a Kumar ALGates (real name: Muthukumaran Azhagesan) - GitHub",
+      "link": "https://github.com/rajakumaran",
+      "snippet": "| AI Engineer | Enterprise Java Dev Lead (spring boot) | AI/ML, Python/R, iOS | Software Architect/Security Advisor | SAP Consultant | Inventor | | USA | kumar.azhagesan@gmail.com",
+      "email": "kumar.azhagesan@gmail.com",
+      "location": "USA",
+      "skills": [
+        "HTML",
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ],
+      "years_of_experience": 12
+    },
+    "parsed_profile": {
+      "full_name": null,
+      "email": "kumar.azhagesan@gmail.com",
+      "location": "USA",
+      "skills": [
+        "HTML",
+        "JavaScript",
+        "Python",
+        "TypeScript"
+      ],
+      "profile_url": "https://github.com/rajakumaran",
+      "source_platform": "github",
+      "bio_text": "| AI Engineer | Enterprise Java Dev Lead (spring boot) | AI/ML, Python/R, iOS | Software Architect/Security Advisor | SAP Consultant | Inventor | | USA | kumar.azhagesan@gmail.com",
+      "years_of_experience": 12,
+      "linkedin_url": null,
+      "query": "SAP Consultant",
+      "security_clearance": ""
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Aditya Deval - GitHub",
+      "link": "https://github.com/adityadeval",
+      "snippet": "Software Engineer | Android Developer | Python Enthusiast | Experienced SAP Functional Consultant | San Francisco, California, USA",
+      "email": null,
+      "location": "San Francisco, California, USA",
+      "skills": [
+        "Java",
+        "JavaScript",
+        "Kotlin",
+        "Python"
+      ],
+      "years_of_experience": 9
+    },
+    "parsed_profile": {
+      "full_name": "Aditya Deval",
+      "email": null,
+      "location": "San Francisco, California, USA",
+      "skills": [
+        "Java",
+        "JavaScript",
+        "Kotlin",
+        "Python"
+      ],
+      "profile_url": "https://github.com/adityadeval",
+      "source_platform": "github",
+      "bio_text": "Software Engineer | Android Developer | Python Enthusiast | Experienced SAP Functional Consultant | San Francisco, California, USA",
+      "years_of_experience": 9,
+      "linkedin_url": null,
+      "query": "SAP Consultant",
+      "security_clearance": ""
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Ravi Kiran Koppichetti - GitHub",
+      "link": "https://github.com/Koppichetti",
+      "snippet": "An Experienced SAP consultant and Data Analyst.  | Dallas, Texas, USA",
+      "email": null,
+      "location": "Dallas, Texas, USA",
+      "skills": [],
+      "years_of_experience": 8
+    },
+    "parsed_profile": {
+      "full_name": "Ravi Kiran Koppichetti",
+      "email": "koppichettiravikiran@gmail.com",
+      "location": "Dallas, Texas, USA",
+      "skills": [],
+      "profile_url": "https://github.com/Koppichetti",
+      "source_platform": "github",
+      "bio_text": "An Experienced SAP consultant and Data Analyst.  | Dallas, Texas, USA\nRavi Kiran K. Ravi Kiran Koppichetti is a business-focused technologist with over 8+ years of… Ravi Kiran Koppichetti is a business-focused technologist with over 8+ years of… Ravi Kiran Koppichetti is a business-focused technologist with over 8+ years of…  The University of Texas at Dallas",
+      "years_of_experience": 8,
+      "linkedin_url": "https://www.linkedin.com/in/ravi-kiran-koppichetti",
+      "github_url": null,
+      "query": "SAP Consultant",
+      "security_clearance": "public trust"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Arunkumar Yallampalli - GitHub",
+      "link": "https://github.com/arunkumar-yallampalli",
+      "snippet": "Mobile Apps (iOS and Hybrid), SAP Mobile Apps, SAP Fiori Consultant | Santa Clara, USA | arunkumar_yallampalli@contractor.amat.com",
+      "email": "arunkumar_yallampalli@contractor.amat.com",
+      "location": "Santa Clara, USA",
+      "skills": [],
+      "years_of_experience": 10
+    },
+    "parsed_profile": {
+      "full_name": "Arunkumar Yallampalli",
+      "email": "arunkumar_yallampalli@contractor.amat.com",
+      "location": "Santa Clara, USA",
+      "skills": [],
+      "profile_url": "https://github.com/arunkumar-yallampalli",
+      "source_platform": "github",
+      "bio_text": "Mobile Apps (iOS and Hybrid), SAP Mobile Apps, SAP Fiori Consultant | Santa Clara, USA | arunkumar_yallampalli@contractor.amat.com",
+      "years_of_experience": 10,
+      "linkedin_url": null,
+      "query": "SAP Consultant",
+      "security_clearance": ""
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Garrett Tedeman, CPA / Tedeman Analytics - GitHub",
+      "link": "https://github.com/GTCPA",
+      "snippet": "Implementation Consultant - SAP Cloud ERP\r\nSAP Analytics Cloud - Planning (FP&A) - Finance AI Trainer | Lake Worth, FL, USA | garrett@tedemancpa.com",
+      "email": "garrett@tedemancpa.com",
+      "location": "Lake Worth, FL, USA",
+      "skills": [],
+      "years_of_experience": 5
+    },
+    "parsed_profile": {
+      "full_name": null,
+      "email": "garrett@tedemancpa.com",
+      "location": "Lake Worth, FL, USA",
+      "skills": [],
+      "profile_url": "https://github.com/GTCPA",
+      "source_platform": "github",
+      "bio_text": "Implementation Consultant - SAP Cloud ERP\r\nSAP Analytics Cloud - Planning (FP&A) - Finance AI Trainer | Lake Worth, FL, USA | garrett@tedemancpa.com",
+      "years_of_experience": 5,
+      "linkedin_url": null,
+      "query": "SAP Consultant",
+      "security_clearance": ""
+    }
+  },
+  {
+    "raw_result": {
+      "title": "SAP Resumes",
+      "link": "https://www.hireitpeople.com/resume-database/71-sap-resumes",
+      "snippet": "SAP FICO Analyst Consultant Resume RESTON, VA. SUMMARY Over 11 years of experience inSAPconfiguration of design and implementations plus 5 + years of domain ..."
+    },
+    "parsed_profile": {
+      "full_name": "SAP Resumes",
+      "email": "support@hireitpeople.com",
+      "location": "HOME CLIENT SERVICES  JOB SEEKERS  FRANCHISE PRESS CONTACT\nSAP Resumes\n Search Resumes\n Browse Categories\nSAP FICO Analyst Consultant Resume RESTON, VA",
+      "skills": [],
+      "profile_url": "https://www.hireitpeople.com/resume-database/71-sap-resumes",
+      "source_platform": "hireitpeople.com",
+      "bio_text": "SAP Resumes\nThis website uses cookies to ensure you get the best experience on our website. Learn more\nGot it!\nEmployee Forms\n   \nsupport@hireitpeople.com\n \n(800) 693-8939\nHOME CLIENT SERVICES  JOB SEEKERS  FRANCHISE PRESS CONTACT\nSAP Resumes\n Search Resumes\n Browse Categories\nSAP FICO Analyst Consultant Resume RESTON, VA\nSUMMARY Over 11 years of experience inSAPconfiguration of design and implementations plus 5 + years of domain experience as accountant. In - depth knowl\t View\n\nSAP FICO Consultant Resume Chicago, IL\nSUMMARY Over 11 years of experience inSAPconfiguration of design and implementations plus 5 + years of domain experience as accountant. In - depth knowl\t View\n\nSAP FICO Analyst Consultant Resume RESTON, VA\nSUMMARY Over 11 years of experience inSAPconfiguration of design and implementations plus 5 + years of domain experience as accountant. In - depth knowl\t View\n\nSAP HANA and Basis consultant Resume Seattle, WA\nSUMMARY Over 7 years of IT experience include SAP Basis/HANA/Security Industry in various aspects of SAP Platforms. SAP Basis Administration encompassin\t View\n\nSAP Security Consultant Resume New Jersey (NJ)\nSUMMARY Over 7 years of IT experience include SAP Basis/HANA/Security Industry in various aspects of SAP Platforms. SAP Basis Administration encompassin\t View\n\nSAP HANA and Basis consultant Resume Seattle, WA\nSUMMARY Over 7 years of IT experience include SAP Basis/HANA/Security Industry in various aspects of SAP Platforms. SAP Basis Administration encompassin\t View\n\nSAP FICO Consultant Resume Baltimore, MD\nSUMMARY Over 11 years of experience inSAPconfiguration of design and implementations plus 5 + years of domain experience as accountant. In - depth knowl\t View\n\nSAP FICO Functional Consultant Resume East Hanover, NJ\nSUMMARY Over 11 years of experience inSAPconfiguration of design and implementations plus 5 + years of domain experience as accountant. In - depth knowl\t View\n\nSAP FICO Consultant Resume Baltimore, MD\nSUMMARY Over 11 years of experience inSAPconfiguration of design and implementations plus 5 + years of domain experience as accountant. In - depth knowl\t View\n\nSAP BOBJ/BW Developer Resume Plymouth, MN\nSUMMARY SAP Business Objects Developer with over 8+ years of experience in Business Intelligence using SAP Business Objects 4.0, XI - R3.1/R2/6.x with Inf\t View\nFirst\n1\n2 \n3 \n4 \n5 \n6 \nLast\nContact\nSchedule A Meeting\nFranchise Opportunity\nSuppliers\nLCA Posting Notices\nHire IT Global, Inc - LCA Posting Notices\nElectronic PERM posting Notice\nCLIENT SERVICES\nIT Staff Augmentation\nHire Programmers\nGovernment Services\nIT Project Management\nIndustry Expertise\nResume Database\nJOB SEEKERS\nBrowse Jobs\nUpload Resume\nEmployee Benefits\nResume Marketing\nUs Citizens/Green Cards\nVisa Sponsorship\nEmployer on Record Services (EOR)\nForms Checklists\nVISA SPONSORSHIP\nH1B Visa Transfer\nE3 Visa Sponsorship\nTN Visa Sponsorship\nEB3 to EB2 Porting\nGreen Card Sponsorship\n\nFollow Us:\n\n   \n\n© 2026 Hire IT People, Inc. Privacy policy | Terms & Conditions | Cookie policy\n\n×",
+      "query": "SAP Consultant",
+      "security_clearance": "Secret"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "SAP Consultant Resume Overview | PDF | Sap Se | Siemens",
+      "link": "https://www.scribd.com/document/261432948/SAP-Resume-template",
+      "snippet": "This resume summarizes Yogesh Sawant's professional experience working on various SAP projects as an SAP consultant and technical lead over 17 years."
+    },
+    "parsed_profile": {
+      "full_name": "SAP Consultant Resume Overview",
+      "email": null,
+      "location": null,
+      "skills": [],
+      "profile_url": "https://www.scribd.com/document/261432948/SAP-Resume-template",
+      "source_platform": "scribd.com",
+      "bio_text": "SAP Consultant Resume Overview | PDF | Sap Se | Siemens\nThis resume summarizes Yogesh Sawant's professional experience working on various SAP projects as an SAP consultant and technical lead over 17 years.",
+      "query": "SAP Consultant"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Sap consultant resume",
+      "link": "https://www.reddit.com/r/resumes/comments/1ldl1of/sap_consultant_resume/",
+      "snippet": "Build an ATS friendly resume and check your resume score here Free Resume Template (Google Docs) Senior Software Engineer, USA] - Updated ..."
+    },
+    "parsed_profile": {
+      "full_name": "Sap consultant resume",
+      "email": null,
+      "location": null,
+      "skills": [],
+      "profile_url": "https://www.reddit.com/r/resumes/comments/1ldl1of/sap_consultant_resume/",
+      "source_platform": "reddit.com",
+      "bio_text": "Sap consultant resume\nBuild an ATS friendly resume and check your resume score here Free Resume Template (Google Docs) Senior Software Engineer, USA] - Updated ...",
+      "query": "SAP Consultant"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Sap Consultant Jobs",
+      "link": "https://www.roberthalf.com/us/en/jobs/all/sap-consultant",
+      "snippet": "Search and apply to our open Sap Consultant jobs. Our full-time, freelance and temporary Sap Consultant roles are updated daily."
+    },
+    "parsed_profile": {
+      "full_name": "Sap Consultant Jobs",
+      "email": null,
+      "location": null,
+      "skills": [],
+      "profile_url": "https://www.roberthalf.com/us/en/jobs/all/sap-consultant",
+      "source_platform": "roberthalf.com",
+      "bio_text": "Sap Consultant Jobs\nSkip To Main Content\n37 results for Sap Consultant jobs\n\n37 results for Sap Consultant jobs\n\nCreate a Job Alert\nEmail me about new Sap Consultant jobs\n\nWe are looking for an SAP SuccessFactors Employee Central (EC) Consultant to support a large enterprise HR transformation initiative. This role requires a highly experienced Employee Central configurator with strong implementation expertise, deep knowledge of SAP SuccessFactors EC, and the ability to provide solution guidance across complex HR business processes. \n\nThe ideal candidate will have experience leading Employee Central configuration efforts across multiple end-to-end implementations and possess strong expertise in data models, Position Management, workflows, business rules, and Role-Based Permissions (RBP).\n\n\n\n\nKey Responsibilities:\n\n·      Configure and support SAP SuccessFactors Employee Central (EC) solutions in complex enterprise environments.\n\n·      Design and maintain Corporate Data Models, Succession Data Models, and Foundation Objects.\n\n·      Configure Position Management, including synchronization of position data with employee and job records.\n\n·      Build and maintain MDF objects, business rules, workflows, triggers, validations, and event derivation frameworks.\n\n·      Configure and support Role-Based Permissions (RBP) to meet security and business requirements.\n\n·      Collaborate with business stakeholders to gather requirements and translate them into scalable EC solutions.\n\n·      Provide solution design recommendations and best practices during implementation and enhancement projects.\n\n·      Support full lifecycle implementations, including requirements gathering, design, configuration, testing, and deployment.\n\n·      Troubleshoot complex configuration issues and provide ongoing production support.\n\nCore Qualifications:\n\n·      5–6+ years of SAP SuccessFactors experience with a strong focus on Employee Central (EC).\n\n·      SAP SuccessFactors Employee Central Certification required.\n\n·      Experience supporting at least 3–4 full-cycle Employee Central implementations.\n\n·      Strong hands-on experience configuring Employee Central Core HR functionality.\n\n·      Deep expertise with: Data Model Configuration (Corporate Data Model and Succession Data Model), Foundation Objects, Position Management, Business Rules, MDF (Metadata Framework), Workflow Configuration, Event Reason and Event Derivation Framework, and Role-Based Permissions (RBP)\n\n·      Experience synchronizing position data between Position Management and Job Information.\n\n·      Strong understanding of HR data structures, organizational hierarchies, and employment processes.\n\n·      Ability to function as a senior configurator and provide solution design guidance.\n\n·      Experience working directly with business stakeholders and technical teams throughout project lifecycles.\n\n·      Strong communication and documentation skills.\n\nPreferred Qualifications:\n\n·      Experience with Intelligent Services Center (ISC).\n\n·      Experience working in large enterprise or global SuccessFactors environments.\n\n·      Knowledge of localization requirements and country-specific Employee Central configurations.\n\n·      Prior experience serving as a solution lead or solution architect on SuccessFactors projects.\n\n·      Experience supporting complex security and business process requirements within EC.\n\n·      Active SAP SuccessFactors certification preferred.\n\n·      Experience working with distributed remote teams across North America.\n\nTechnology Doesn't Change the World, People Do.®\n\n\nRobert Half is the world’s first and largest specialized talent solutions firm that connects highly qualified job seekers to opportunities at great companies. We offer contract, temporary and permanent placement solutions for finance and accounting, technology, marketing and creative, legal, and administrative and customer support roles.\n\nRobert Half works to put you in the best position to succeed. We provide access to top jobs, competitive compensation and benefits, and free online training. Stay on top of every opportunity - whenever you choose - even on the go. Download the Robert Half app and get 1-tap apply, notifications of AI-matched jobs, and much more.\n\nAll applicants applying for U.S. job openings must be legally authorized to work in the United States. Benefits are available to contract/temporary professionals, including medical, vision, dental, and life and disability insurance. Hired contract/temporary professionals are also eligible to enroll in our company 401(k) plan. Visit roberthalf.gobenefits.net for more information.\n\n© 2025 Robert Half. An Equal Opportunity Employer. M/F/Disability/Veterans. By clicking “Apply Now,” you’re agreeing to Robert Half’s Terms of Use and Privacy Notice.\n\nBrowse Jobs\nContract Talent\nPermanent Talent\nConsulting Solutions\nFinance & Accounting\nTechnology\nMarketing & Creative\nLegal\nAdministrative & Customer Support\nDiscover Insights\nInvoice\nJob Direct",
+      "query": "SAP Consultant"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "2025 SAP Consultant Resume Example (+Free Template)",
+      "link": "https://www.tealhq.com/resume-example/sap-consultant",
+      "snippet": "An SAP Consultant resume should ideally be one to two pages long. This length allows you to highlight your relevant experience and skills without overwhelming ..."
+    },
+    "parsed_profile": {
+      "full_name": null,
+      "email": null,
+      "location": null,
+      "skills": [],
+      "profile_url": "https://www.tealhq.com/resume-example/sap-consultant",
+      "source_platform": "tealhq.com",
+      "bio_text": "2025 SAP Consultant Resume Example (+Free Template)\nwww.tealhq.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2017e0d7af4c5bc\nPerformance and Security by Cloudflare\nPrivacy",
+      "query": "SAP Consultant"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "View SAP Consultant Profiles, Resumes and CV's",
+      "link": "https://www.sapbwconsulting.com/sap-view-consultant-profiles-resumes-and-cv",
+      "snippet": "View SAP Consultant Resume and CVs. 8 Years of experience in Design, Development, Implementation and Production Support. Experience in Retail, Financial, ..."
+    },
+    "parsed_profile": {
+      "full_name": null,
+      "email": null,
+      "location": null,
+      "skills": [],
+      "profile_url": "https://www.sapbwconsulting.com/sap-view-consultant-profiles-resumes-and-cv",
+      "source_platform": "sapbwconsulting.com",
+      "bio_text": "View SAP Consultant Profiles, Resumes and CV's\nHOME CONTACT US BLOG\n\nContact Us: 812-340-5581\n\nHome\nFind Talent\nFind a Job\nEnterprise Services\nInbound Marketing Services\nSAP Blog\nAbout Us\nTestimonials\nView SAP Consultant Profiles, Resumes and CV's here\n\nWhy pay Indeed, Dice, Monster or Career Builder an expensive subscription fee when you can view consultant profiles for free right here?  You can also post any job opening you have on our new Job Portal, Mapertunity.com\n\nPost a Job\n\nThis is a sampling of just a very few of our consultant base. Contact us to find out more about these featured Consulting Candidates or to schedule an interview with each of them. If you are a SAP consultant, whether a SAP Functional Consultant or SAP Technical Consultant and would like to post your own profile here to take advantage of our large number of SAP focused visitors each month, send us your Resume, Profile or SAP CV's at left - \"it's free\".\n\n \n\nWe Can Help You Assemble an Entire SAP Team\n\nGet SAP Consultant Rates - 2017\n\nSAP Consultant Profile Summary Listing\n \nConsultant Profile - SAP Plant Maintenance Consultant\n\nDownload Sample - SAP Plant Maintenance Resume - Our experienced SAP Plant Maintenance Consulting Team members typically have over 10 years experience in SAP Plant Maintenance across various industrial sectors including Manufacturing, Pharmaceuticals, Telecommunications, Public Sector, Military, Oil & Gas, Airline, Locomotive, Cargo Shipping and Utilities industries and are also typically Certified Project Managers (PMPs) able to lead any project when needed.\n\nOur SAP Plant Maintenance Consulting Team Skills include the following\n\n\n\nIn-depth Plant Maintenance functional and configuration knowledge; Certified in PM and PS\nPM components:\n     Technical Objects\n     Maintenance Orders & Notifications\n     Preventive Maintenance Plans\n     PM Information System\nPS components:\n     Project Structures\n     WBS elements & Networks\n     Project Planning & Budgeting\n     Project Realization\n     Reporting\nConfiguration and upload of PM/PS master data\nConfiguration of PM notification types, PM/PS order types, PM/PS Information System\nIntegration of PM/PS with FI/CO & MM & HR\nReporting - Standard reports and analyses, specifications and testing of developments and BI reports\nIntegrations with MM, SD, PP, FI/CO and DMS functional capabilities\nBusiness analysis; Blueprint design; Unit and integration testing; Documentation; Training\nPost-production support & enhancements\n\n \n\nConsultant Profile - SAP Business Warehouse (BW) Consultant\n\nDownload Sample - SAP Business Warehouse (BW) Resume - Our experienced SAP Business Warehouse (SAP BW) Consulting Team Members typically have over 10 years of IT results oriented experience in financial, oil gas, telecommunications, human resources  & manufacturing industries in IT environment with a minimum of 2 to 5 years experience developing SAP BW BI solutions in either of the 3.x or 7.x environments as well as 4-6 years experience developing SAP Business Objects solutions in either the Enterprise XI 3.x environment or the 4.x environment.\n\nOur SAP Business Warehouse (BW) Consulting Team Skills include the following\n\nStandard Data Flows:\n   Custom Extractors\n   Generic Extractors\n   Data sources\n   Info sources\n   Transfer Rules\n   Data Transfer Processes (DTPs)    \n   Update Rules\n   Info packages\n   Info package groups\n   Info objects\n   ODS\n   DSO\n   Info cubes\n   Process Chains\nReporting Tools\n   BEx Queries\n   WEBI Reports and Dashboards\n   xCelsius Dashboards\n   Crystal Reports\nBEX Queries\n   Variables\n   Calculated key figures\n   Restricted Key Figures\n   Infoset Queries\n   Workbooks\nBEx Analyzer\nBEx Browser\nCustom ABAP Coding\n   ABAP executable programs tables, field\n   Start & End routines.\nSAP Business Objects Business Intelligence 4.0 Universes\nSAP Business Objects Webi reports\nBICS Connections\nCrystal Reports\nLive Office\nConducted analysis to recommend SAP best practices\nSystem Performance Tuning\nUpgrades from SAP BW 3.5 environment to SAP BI 7.4 environment\nConsultant Profile - SAP ABAP Programmer\n\nSAPBWC-472021 - Experienced SAP ABAP Programmer with over 11 years of IT experience including 8 Years of experience in Design, Development, Implementation and Production Support for Business Applications in SAP Business Intelligence/Warehouse (BI 7.X/3.X) with SAP R/3 (4.X/ECC 6.0), HSE, xRPM and Business Objects 3.X/4.0\n\nConsultant Profile - SAP BOBJ Consultant\n\nSAPBWC-472020 - Resume - Over 11 years of IT experience 8 Years of experience in Design, Development, Implementation and Production Support for SAP BI / BW, SAP R/3,HSE, xRPM, Business Objects.\n\nConsultant Profile - SAP BW / BOBJ Consultant\n\nSAPBWC-472010 - SAP BW Consultant with Business Objects experience. Experience in Retail, Financial, Pharmaceutical, Government, Technology industries and the following cross functional modules SD, MM, FI-CO, SCM, CRM, BW, CO-PA, LO...Learn More\n\nConsultant Profile - SAP BW / BOBJ Consultant, Embedded Engineer\n\nSAPBWC-472009 - I",
+      "query": "SAP Consultant"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Sap Basis Consultant Resume Examples & Templates",
+      "link": "https://www.myperfectresume.com/resume/examples/data-systems-administration/sap-basis-consultant",
+      "snippet": "Your SAP basis consultant resume needs to show how you manage systems, troubleshoot issues, and keep everything running smoothly. Find tips to ..."
+    },
+    "parsed_profile": {
+      "full_name": null,
+      "email": null,
+      "location": null,
+      "skills": [],
+      "profile_url": "https://www.myperfectresume.com/resume/examples/data-systems-administration/sap-basis-consultant",
+      "source_platform": "myperfectresume.com",
+      "bio_text": "Sap Basis Consultant Resume Examples & Templates\nYour SAP basis consultant resume needs to show how you manage systems, troubleshoot issues, and keep everything running smoothly. Find tips to ...",
+      "query": "SAP Consultant"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Updating resume as a functional SAP consultant",
+      "link": "https://www.reddit.com/r/SAP/comments/1s3y96r/updating_resume_as_a_functional_sap_consultant/",
+      "snippet": "Ive been a functional SAP consultant for almost a year now and im trying to update my resume to lean more into it. I am a CS graduate so my ..."
+    },
+    "parsed_profile": {
+      "full_name": null,
+      "email": null,
+      "location": null,
+      "skills": [],
+      "profile_url": "https://www.reddit.com/r/SAP/comments/1s3y96r/updating_resume_as_a_functional_sap_consultant/",
+      "source_platform": "reddit.com",
+      "bio_text": "Updating resume as a functional SAP consultant\nIve been a functional SAP consultant for almost a year now and im trying to update my resume to lean more into it. I am a CS graduate so my ...",
+      "query": "SAP Consultant"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "SAP Consultant CV Examples (Template & 20+ Tips)",
+      "link": "https://resumaker.ai/cv-examples/sap-consultant/",
+      "snippet": "Create a standout SAP Consultant CV with our online platform. Browse professional templates for all levels and specialties. Land your dream role today!"
+    },
+    "parsed_profile": {
+      "full_name": null,
+      "email": null,
+      "location": null,
+      "skills": [],
+      "profile_url": "https://resumaker.ai/cv-examples/sap-consultant/",
+      "source_platform": "resumaker.ai",
+      "bio_text": "SAP Consultant CV Examples (Template & 20+ Tips)\nCreate a standout SAP Consultant CV with our online platform. Browse professional templates for all levels and specialties. Land your dream role today!",
+      "query": "SAP Consultant"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Working as a SAP consultant",
+      "link": "https://www.randstadusa.com/job-seeker/career-advice/job-profiles/sap-consultant/",
+      "snippet": "In the U.S., aspiring SAP consultants usually need a bachelor's degree in business or IT. ... submit your resume. Make sure your resume is up-to-date ..."
+    },
+    "parsed_profile": {
+      "full_name": null,
+      "email": null,
+      "location": null,
+      "skills": [],
+      "profile_url": "https://www.randstadusa.com/job-seeker/career-advice/job-profiles/sap-consultant/",
+      "source_platform": "randstadusa.com",
+      "bio_text": "Working as a SAP consultant\nlocations\nfind a job\nfor talent\nfor employers\nrandstad app\nsalary guide 2026\nmy randstad\nhome\n job seekers\n career advice\n job profiles\n sap consultant\nSAP consultant\n\nWhat does a SAP consultant do, what will you earn, what does your working day look like, and what competencies, experience, and training do you need? Discover all there is to know about this role.\n\nview jobs\ntable of contents\naverage SAP consultant salary\ntypes of SAP consultants\nworking as a SAP consultant\nSAP consultant skills and education\nfaqs about SAP consultant jobs\nsubmit your resume\nwhat is a SAP consultant?\n\nAn SAP consultant is a highly skilled professional specializing in Enterprise Resource Planning (ERP) systems. Their primary role is to provide expert guidance on implementing, customizing, and optimizing SAP software solutions to align with business needs. This profession requires a deep understanding of business processes, strong communication skills, and the ability to design and implement SAP solutions that improve efficiency and support organizational goals.\n\nSAP consultants work closely with businesses to leverage SAP software in areas such as finance, supply chain management, human resources, and more. They play a key role in ensuring that SAP solutions are aligned with business objectives and contribute to operational success.\n\nview roles\n1\naverage SAP consultant salary\n\nThe average salary of an SAP consultant in the U.S. varies based on experience, location, and area of expertise. On average, SAP consultants earn around $100,000 per year, with hourly rates averaging $50. Entry-level salaries may start around $85,000 per year, while experienced SAP consultants can earn upwards of $140,000 annually. Having relevant SAP certifications and a proven track record in SAP implementations can significantly enhance earning potential.\n\nwhat affects the salary of a SAP consultant?\n\nSeveral factors influence an SAP consultant's salary, including:\n\nExperience: Seasoned professionals typically earn higher salaries due to their extensive expertise.\nSpecialization: SAP consultants focusing on modules like SAP Finance, SAP HR, or SAP Supply Chain may have higher earning potential.\nLocation: Salaries vary across different U.S. states and cities. SAP consultants in high-demand markets like New York, California, and Texas often command higher salaries than those in smaller or less competitive regions.\nEducation and Certifications: A strong educational background in business or IT, along with SAP certifications (e.g., SAP S/4HANA, SAP FI, or SAP MM), can contribute to higher earnings.\nIndustry Demand: SAP consultants working in high-growth industries such as healthcare, finance, or manufacturing may receive better compensation.\ncheck your salary in one click!\n\nCompare it with the average for other professionals in your sector.\n\naccess our tool\n2\ntypes of SAP consultants\n\nSAP consultants specialize in different modules and areas within SAP software. Here are some common types:\n\nSAP Finance Consultant: Focuses on financial processes, including accounting, controlling, and financial reporting.\nSAP HR Consultant: Specializes in human resource management modules such as payroll, personnel administration, and talent management.\nSAP Supply Chain Consultant: Works with SAP modules related to procurement, inventory management, and logistics.\nSAP Technical Consultant: Handles system configuration, customization, and integration with other platforms.\n3\nworking as a SAP consultant\n\nIf you enjoy optimizing business processes and working with advanced technology, a career as an SAP consultant could be a great fit. Below are the key responsibilities and work environment details:\n\nwhat does a SAP consultant do?\n\nAn SAP consultant’s daily tasks may include:\n\nRequirements Analysis: Collaborating with clients to assess business needs and translating them into SAP solutions.\nImplementation: Designing, configuring, and deploying SAP solutions to align with business operations.\nCustomization: Tailoring SAP software to meet specific industry and organizational requirements.\nTraining and Support: Educating end-users and providing ongoing support to ensure smooth adoption of SAP systems.\nSystem Optimization: Identifying opportunities for process improvement and enhancing system efficiency.\nwork environment of a SAP consultant\n\nSAP consultants typically work in office settings, either within consulting firms or as independent professionals. The role often involves traveling to client sites, attending meetings, and collaborating with IT teams, finance departments, and senior management. Many SAP consultants also have remote work options, depending on employer policies.\n\nwho are your colleagues?\n\nSAP consultants collaborate with a variety of professionals to ensure successful project implementation. They work closely with business analysts, IT professionals, and project managers to assess business needs and translate them into effective SAP solutions. Additionally, the",
+      "query": "SAP Consultant"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "3 YoE,Sap basis consultant,Sap Basis ,Delhi NCR",
+      "link": "https://www.reddit.com/r/resumes/comments/1m8v2xx/3_yoesap_basis_consultantsap_basis_delhi_ncr/",
+      "snippet": "I'm currently applying for SAP BASIS Consultant or SAP Technical Consultant roles. Mid-Level/Senior Software Engineer, USA] - Updated Resume. ..."
+    },
+    "parsed_profile": {
+      "full_name": null,
+      "email": null,
+      "location": null,
+      "skills": [],
+      "profile_url": "https://www.reddit.com/r/resumes/comments/1m8v2xx/3_yoesap_basis_consultantsap_basis_delhi_ncr/",
+      "source_platform": "reddit.com",
+      "bio_text": "3 YoE,Sap basis consultant,Sap Basis ,Delhi NCR\nI'm currently applying for SAP BASIS Consultant or SAP Technical Consultant roles. Mid-Level/Senior Software Engineer, USA] - Updated Resume. ...",
+      "query": "SAP Consultant"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Hi i need a sap bw technical consultant resume with 2 usa ...",
+      "link": "https://www.coursehero.com/tutors-problems/Business-Other/70515380-Hi-i-need-a-sap-bw-technical-consultant-resume-with-2-usa/",
+      "snippet": "Hi i need a sap bw technical consultant resume with 2 usa companies and 4 indian companies"
+    },
+    "parsed_profile": {
+      "full_name": null,
+      "email": null,
+      "location": null,
+      "skills": [],
+      "profile_url": "https://www.coursehero.com/tutors-problems/Business-Other/70515380-Hi-i-need-a-sap-bw-technical-consultant-resume-with-2-usa/",
+      "source_platform": "coursehero.com",
+      "bio_text": "Hi i need a sap bw technical consultant resume with 2 usa ...\nwww.coursehero.com\nPerforming security verification\n\nThis website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.\n\nRay ID: a2017f230b1c4e24\nPerformance and Security by Cloudflare\nPrivacy",
+      "query": "SAP Consultant"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "Sap Hr Consultant Resume Sample & Tips",
+      "link": "https://resumebuild.com/resume/examples/sap-hr-consultant/",
+      "snippet": "Perfect Sap Hr Consultant Resume Examples & Samples. 100+ high-quality, job-specific samples to help you building an awesome Sap Hr Consultant Resume."
+    },
+    "parsed_profile": {
+      "full_name": null,
+      "email": null,
+      "location": null,
+      "skills": [],
+      "profile_url": "https://resumebuild.com/resume/examples/sap-hr-consultant/",
+      "source_platform": "resumebuild.com",
+      "bio_text": "Sap Hr Consultant Resume Sample & Tips\nPerfect Sap Hr Consultant Resume Examples & Samples. 100+ high-quality, job-specific samples to help you building an awesome Sap Hr Consultant Resume.",
+      "query": "SAP Consultant"
+    }
+  },
+  {
+    "raw_result": {
+      "title": "SAP Resume Types: Boost Your Chances with a Type 3 ...",
+      "link": "https://www.linkedin.com/posts/senthil-kumar-writer_ive-reviewed-over-200-sap-consultant-resumes-activity-7436608968547946496-2A4d",
+      "snippet": "I've reviewed over 200 SAP consultant resumes. They fall into 3 types. Type 1: The Module Dump → SAP MM, PP, SD, FICO, WM, QM, PM → S/4HANA, ..."
+    },
+    "parsed_profile": {
+      "full_name": "",
+      "email": null,
+      "contact_number": null,
+      "location": "PP, SD",
+      "skills": [],
+      "profile_url": "https://www.linkedin.com/posts/senthil-kumar-writer_ive-reviewed-over-200-sap-consultant-resumes-activity-7436608968547946496-2A4d",
+      "source_platform": "LinkedIn (Bright Data)",
+      "years_of_experience": null,
+      "bio_text": " ",
+      "github_url": null,
+      "query": "SAP Consultant",
+      "security_clearance": ""
+    }
+  },
+  {
+    "raw_result": {
+      "title": "18 SAP Resume Examples & Guide for 2026",
+      "link": "https://enhancv.com/resume-examples/sap/",
+      "snippet": "You're a SAP whiz who wants to educate and help others with your consulting skills? You've come to the right place! Check out what's new for 2026."
+    },
+    "parsed_profile": {
+      "full_name": null,
+      "email": null,
+      "location": null,
+      "skills": [],
+      "profile_url": "https://enhancv.com/resume-examples/sap/",
+      "source_platform": "enhancv.com",
+      "bio_text": "18 SAP Resume Examples & Guide for 2026\nYou're a SAP whiz who wants to educate and help others with your consulting skills? You've come to the right place! Check out what's new for 2026.",
+      "query": "SAP Consultant"
+    }
+  }
+]

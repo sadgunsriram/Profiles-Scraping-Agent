@@ -1,0 +1,69 @@
+- generic [ref=f5e1]:
+  - generic [ref=f5e3]:
+    - generic [ref=f5e4]:
+      - generic [ref=f5e6]:
+        - generic [ref=f5e7]: Loading
+        - progressbar [active] [ref=f5e8]
+      - main [ref=f5e160]:
+        - generic [ref=f5e169]:
+          - heading "2-Step Verification" [level=1] [ref=f5e170]
+          - generic [ref=f5e171]: To help keep your account safe, Google wants to make sure it’s really you trying to sign in
+          - link "vipinm@fronixsolutions.com selected. Switch account" [ref=f5e173] [cursor=pointer]:
+            - generic [ref=f5e178]: vipinm@fronixsolutions.com
+        - generic [ref=f5e183]:
+          - generic [ref=f5e116]:
+            - generic [ref=f5e124]:
+              - textbox "Enter your password" [ref=f5e125]: Vipin@1822
+              - generic: Enter your password
+            - generic [ref=f5e132]:
+              - checkbox "Show password" [ref=f5e136] [cursor=pointer]
+              - generic [ref=f5e137]: Show password
+          - generic [ref=f5e190]:
+            - heading "Choose how you want to sign in:" [level=2] [ref=f5e192]
+            - list [ref=f5e197]:
+              - listitem [ref=f5e198]:
+                - link "Tap Yes on your phone or tablet Device can’t be reached right now" [disabled]:
+                  - generic:
+                    - text: Tap
+                    - strong: "Yes"
+                    - text: on your phone or tablet
+                    - generic: Device can’t be reached right now
+              - listitem [ref=f5e199]:
+                - link "Use your phone or tablet to get a security code (even if it’s offline)" [ref=f5e200] [cursor=pointer]
+              - listitem [ref=f5e205]:
+                - link "Get a verification code at •••••• •••74 2-Step Verification phone Standard rates apply" [ref=f5e206] [cursor=pointer]:
+                  - generic [ref=f5e210]:
+                    - generic [ref=f5e211]:
+                      - text: Get a verification code at
+                      - generic [ref=f5e212]: •••••• •••74
+                    - generic [ref=f5e213]:
+                      - text: 2-Step Verification phone
+                      - generic [ref=f5e214]: Standard rates apply
+              - listitem [ref=f5e215]:
+                - link "Use your passkey" [ref=f5e216] [cursor=pointer]
+              - listitem [ref=f5e221]:
+                - link "Get a one-time security code Sign in on another device with your passkey or security key to get a code" [ref=f5e222] [cursor=pointer]:
+                  - generic [ref=f5e227]:
+                    - generic [ref=f5e228]: Get a one-time security code
+                    - generic [ref=f5e229]: Sign in on another device with your passkey or security key to get a code
+              - listitem [ref=f5e230]:
+                - link "Try another way" [ref=f5e231] [cursor=pointer]
+    - contentinfo [ref=f5e69]:
+      - combobox "Change language English (United States)" [ref=f5e73] [cursor=pointer]:
+        - generic: English (United States)
+      - list [ref=f5e75]:
+        - listitem [ref=f5e76]:
+          - link "Open Google Account Help Center (external, opens in a new window)" [ref=f5e77] [cursor=pointer]:
+            - /url: https://support.google.com/accounts?hl=en-US&p=account_iph
+            - text: Help
+        - listitem [ref=f5e78]:
+          - link "Privacy Policy (external, opens in a new window)" [ref=f5e79] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=NL&hl=en-US&privacy=true
+            - text: Privacy
+        - listitem [ref=f5e80]:
+          - link "Google Terms of Service (external, opens in a new window)" [ref=f5e81] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=NL&hl=en-US
+            - text: Terms
+  - iframe [ref=f5e82]:
+    
+  - generic [ref=f5e157]: 2-Step Verification To help keep your account safe, Google wants to make sure it’s really you trying to sign in

@@ -1,0 +1,398 @@
+{
+  "id": "williamhgates",
+  "name": "Bill Gates",
+  "city": "Seattle, Washington, United States",
+  "country_code": "US",
+  "position": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+  "about": "Chair of the Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+  "posts": [
+    {
+      "title": "The best things I read, listened to, and watched this year",
+      "attribution": "It\u2019s hard to beat summer here in Seattle. The days are long, sunny, and warm, and you\u2019re never far from Puget Sound or\u2026",
+      "link": "https://www.linkedin.com/pulse/best-things-i-read-listened-watched-year-bill-gates-saopc",
+      "created_at": "2026-07-30T00:00:00.000Z",
+      "interaction": "2,89 - 413 Comments",
+      "id": "7488610139328151552"
+    },
+    {
+      "title": "Memories from an inspiring trip to Rwanda",
+      "attribution": "I just got back from the most incredible week in Rwanda. My favorite trips are always the ones that leave me feeling\u2026",
+      "link": "https://www.linkedin.com/pulse/memories-from-inspiring-trip-rwanda-bill-gates-ojyye",
+      "created_at": "2026-07-26T00:00:00.000Z",
+      "interaction": "4,68 - 594 Comments",
+      "id": "7487182910404612096"
+    },
+    {
+      "title": "\"AIDS-free\" generation is no empty promise",
+      "attribution": "In 2007, Wendo Aszed was in her twenties and enjoying life in Nakuru, a city in her native Kenya. One day, her best\u2026",
+      "link": "https://www.linkedin.com/pulse/aids-free-generation-empty-promise-bill-gates-hbvue",
+      "created_at": "2026-07-12T00:00:00.000Z",
+      "interaction": "3,41 - 475 Comments",
+      "id": "7482113187350310913"
+    },
+    {
+      "title": "We\u2019re entering a golden age of Alzheimer\u2019s research",
+      "attribution": "I'll never forget the moment I learned that my dad had Alzheimer's disease. I felt so powerless and scared.",
+      "link": "https://www.linkedin.com/pulse/were-entering-golden-age-alzheimers-research-bill-gates-7re2e",
+      "created_at": "2026-06-07T00:00:00.000Z",
+      "interaction": "7,61 - 1,056 Comments",
+      "id": "7469494408346836993"
+    },
+    {
+      "title": "Every year, 2 million babies are stillborn. A simple retinal scanner can change that.",
+      "attribution": "If you\u2019re anything like me, you have a favorite chart. Mine has been the same for years.",
+      "link": "https://www.linkedin.com/pulse/every-year-2-million-babies-stillborn-simple-retinal-scanner-gates-zxgkc",
+      "created_at": "2026-05-02T00:00:00.000Z",
+      "interaction": "3,70 - 665 Comments",
+      "id": "7456100051434647552"
+    },
+    {
+      "title": "The next generation of electricity is almost here",
+      "attribution": "I\u2019m in Texas this week to talk about the remarkable breakthroughs fueling our zero-emission future. Greetings from the\u2026",
+      "link": "https://www.linkedin.com/pulse/next-generation-electricity-almost-here-bill-gates-osuhc",
+      "created_at": "2026-03-27T00:00:00.000Z",
+      "interaction": "7,35 - 1,177 Comments",
+      "id": "7443408659830927360"
+    },
+    {
+      "title": "A phone call that saves lives",
+      "attribution": "In the United States, when someone has a medical emergency, we take for granted that an ambulance will arrive. It will\u2026",
+      "link": "https://www.linkedin.com/pulse/phone-call-saves-lives-bill-gates-yspvc",
+      "created_at": "2026-03-08T00:00:00.000Z",
+      "interaction": "5,57 - 866 Comments",
+      "id": "7436223425645387776"
+    },
+    {
+      "title": "Expanding access to health care through AI",
+      "attribution": "A core principle underlying the Gates Foundation\u2019s work is closing the innovation gap between rich countries and\u2026",
+      "link": "https://www.linkedin.com/pulse/expanding-access-health-care-through-ai-bill-gates-xyqtc",
+      "created_at": "2026-01-23T00:00:00.000Z",
+      "interaction": "4,98 - 790 Comments",
+      "id": "7420276643413520384"
+    },
+    {
+      "title": "How to get the world back on track and enter a new era of unprecedented progress",
+      "attribution": "I have always been an optimist. When I founded Microsoft, I believed a digital revolution powered by great software\u2026",
+      "link": "https://www.linkedin.com/pulse/how-get-world-back-track-enter-new-era-unprecedented-progress-gates-wzycc",
+      "created_at": "2026-01-12T00:00:00.000Z",
+      "interaction": "5,96 - 1,090 Comments",
+      "id": "7416545984320679936"
+    },
+    {
+      "title": "What the Gates Foundation hopes to accomplish over the next 20 years",
+      "attribution": "Over the next twenty years, the foundation will work together with our partners to make as much progress towards our\u2026",
+      "link": "https://www.linkedin.com/pulse/what-gates-foundation-hopes-accomplish-over-next-20-years-bill-gates-y0gic",
+      "created_at": "2025-12-20T00:00:00.000Z",
+      "interaction": "5,53 - 1,469 Comments",
+      "id": "7407929437515763712"
+    }
+  ],
+  "current_company": {
+    "name": "Gates Foundation",
+    "company_id": "gates-foundation",
+    "title": "Co-chair",
+    "location": null
+  },
+  "experience": [
+    {
+      "title": "Co-chair",
+      "description_html": null,
+      "start_date": "2000",
+      "end_date": "Present",
+      "company": "Gates Foundation",
+      "company_id": "gates-foundation",
+      "url": "https://www.linkedin.com/company/gates-foundation",
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQEgMqqFTd40Tg/company-logo_100_100/company-logo_100_100/0/1736784969376/bill__melinda_gates_foundation_logo?e=2147483647&v=beta&t=2JH2cMcZms60vPAMbvVZyMeYXosQ1Jjy5axDlyeQ1Ww"
+    },
+    {
+      "title": "Founder",
+      "description_html": null,
+      "start_date": "2015",
+      "end_date": "Present",
+      "company": "Breakthrough Energy",
+      "company_id": "breakthrough-energy",
+      "url": "https://www.linkedin.com/company/breakthrough-energy",
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQFRMYiQN7-2kA/company-logo_100_100/B56ZoI4SGPI0AQ-/0/1761085563539/breakthrough_energy_logo?e=2147483647&v=beta&t=J6RbEvs17fl1uiEaXQm0hmXy4imx36mV_Hu80JcR1DE"
+    },
+    {
+      "title": "Co-founder",
+      "description_html": null,
+      "start_date": "1975",
+      "end_date": "Present",
+      "company": "Microsoft",
+      "company_id": "microsoft",
+      "url": "https://www.linkedin.com/company/microsoft",
+      "company_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_100_100/B56ZYQ0mrGGoAU-/0/1744038948046/microsoft_logo?e=2147483647&v=beta&t=rr_7_bFRKp6umQxIHErPOZHtR8dMPIYeTjlKFdotJBY"
+    }
+  ],
+  "url": "https://www.linkedin.com/in/williamhgates",
+  "people_also_viewed": [
+    {
+      "profile_link": "https://www.linkedin.com/in/melindagates",
+      "name": "Melinda French Gates",
+      "about": "Pivotal",
+      "location": "7M followers United States"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/tyleralterman",
+      "name": "Tyler Alterman",
+      "about": "Fractal University",
+      "location": "7K followers Brooklyn, NY"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/toddjduckett",
+      "name": "Todd J. Duckett",
+      "about": "Duckett Enterprises",
+      "location": "9K followers Lansing, MI"
+    },
+    {
+      "profile_link": "https://is.linkedin.com/in/hallatomasdottir",
+      "name": "Halla Tomasdottir",
+      "about": "I am the president of Iceland since August 1st 2024. Previously I served as the CEO and Chief Change Catalyst for The B Team, where global business and civil society leaders work together on confronting our crisis of conformity in leadership. I have long been on a quest to inspire and empower leaders to embrace purpose-driven, gender-balanced and principled leadership. I have passionately pursued this purpose as a business leader in Corporate America with M&M and Pepsi Cola, as the first female CEO of Iceland\u2019s Chamber of commerce and as an executive and non-executive director for diverse businesses. An entrepreneur at heart, I joined the founding team of Reykjavik University where I founded the Executive Education department and led a successful initiative focused on empowering women and girls as entrepreneurs, leaders and investors. In 2007 I co-founded an investment firm with the vision to incorporate feminine values and ESG metrics into finance. The company made international headlines when it successfully survived Iceland\u2019s infamous economic meltdown. In 2016, I ran for President as an independent candidate with no prior political experience and surprised everyone as I emerged from an initial 1% in the polls to becoming the runner-up with nearly 30% of the vote. <br><br>I have an international MBA from Thunderbird and have lived and worked in the US, the UK and across the Nordics. My work has led me to the TED stage several times and I have delivered keynotes and participated in dialogues about new visions for leadership for companies and conferences around the world. Newsweek named me to a list of 150 women who \u201cshake the world\u201d and the New Yorker called me a \u201cLiving Emoji of Sincerity\u201d. Who needs a formal title when you can be an Emoji? <br><br>Twitter: @HallaTomas<br>Facebook: @hallatomas",
+      "location": "23K followers Iceland"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/matthew-swift-8ba7529",
+      "name": "Matthew Swift",
+      "about": "Concordia",
+      "location": "14K followers Palm Beach, FL"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/petefishman",
+      "name": "Peter Fishman",
+      "about": "Mozart Data",
+      "location": "17K followers New York City Metropolitan Area"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/sherryb",
+      "name": "Sherry Whitaker Budziak \ud83e\udd0d",
+      "about": ".orgSource",
+      "location": "9K followers Deerfield, IL"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/tonyteravainen",
+      "name": "Tony Teravainen PMP CSSBB",
+      "about": "Support The Enlisted Project (STEP)",
+      "location": "13K followers San Diego, CA"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/charlesmarohn",
+      "name": "Charles Marohn",
+      "about": "Strong Towns",
+      "location": "17K followers Brainerd, MN"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/schm1tt",
+      "name": "Patrick Schmitt",
+      "about": "FreeWill",
+      "location": "11K followers New York, NY"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/melindalackey",
+      "name": "Melinda Lackey",
+      "about": "Freelance",
+      "location": "6K followers New York, NY"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/bill-cronin-5490492",
+      "name": "Bill Cronin",
+      "about": "Pasco Economic Development Council",
+      "location": "11K followers Odessa, FL"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/ezohn",
+      "name": "Ethan Zohn",
+      "about": "For Ethan Zohn, winning CBS\u2019s SURVIVOR: Africa was the springboard to an exceptional young life of entrepreneurship, social purpose and advocacy. It was also the prelude to an incredible story, one of perseverance, accomplishment, and enduring spirit in the face of once unthinkable challenges. His message for young people, academia and the corporate community alike emphasizes character, resiliency, service, kindness and turning challenges into strengths. <br><br>After playing professional soccer in the U.S. and Zimbabwe, Zohn went on to win the CBS reality show, Survivor Africa in 2001. He used his prize money to Co-found the organization Grassroot Soccer (GRS) that uses the power of soccer to educate, inspire and mobilize communities to improve health. Ethan has been a force in driving the strategic direction of GRS and building partnerships that have helped to provide lifesaving education for more than 25 million youth in 60+ different countries. As global spokesperson, Ethan launched GRS UNITED, a U.S. awareness campaign, by dribbling a soccer ball 550 miles from Boston to Washington, D.C. <br><br>Ethan became an unlikely face of cancer. Diagnosed not once but twice with CD20+ Hodgkin\u2019s Lymphoma in the span of several years, Ethan endured years of aggressive treatment, including two stem cell transplants. Never losing optimism, spirit, or humor despite extraordinary rigors and setbacks, Ethan used his journey and considerable platform to connect with others. <br><br>As demonstrated by his charitable work with various global and domestic health and wellness organizations, and community involvement, Ethan believes that a better and healthier world can be achieved by living with strong values. Ethan travels the world as an inspirational speaker emphasizing importance of kindness, community and a connection to social goodness.<br><br>Ethan ran the NY & Boston Marathon and was named a global ambassador for Cycle For Survival, Leukemia & Lymphoma Society and StandUp2Cancer. He is a medical cannabis advocate and ambassador for EO Care, which provides clinician-created cannabis products for cancer. Zohn has been featured in and hosted the Emmy nominated show, Everyday Health on ABC, Outside Today on the Outside Television Network and returned to reality TV as a contestant on Survivor: Winners at War (2019), The Amazing Race, Survivor All-Star, Fear Factor, Eco-Challenge and co-wrote, \u201cSoccer World,\u201d a series of books for young readers to explore the world in a compelling way through soccer. Ethan is an inventor and his CrunchBowl was featured on Discovery's show, PitchMen.",
+      "location": "6K followers Bartow, FL"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/gary-taubes-942a6459",
+      "name": "Gary Taubes",
+      "about": "Self-employed",
+      "location": "6K followers Oakland, CA"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/sharonhenifin",
+      "name": "Sharon Henifin, CLC, CN-BA",
+      "about": "Breast Friends",
+      "location": "22K followers Portland, Oregon Metropolitan Area"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/josephrrusso",
+      "name": "Joseph Russo",
+      "about": "Stealth Startup",
+      "location": "16K followers West Palm Beach, FL"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/jasongrad",
+      "name": "Jason Grad",
+      "about": "Massive",
+      "location": "14K followers San Francisco, CA"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/mrdaikensjr",
+      "name": "Dwayne Aikens Jr.",
+      "about": "WAYFINDING",
+      "location": "10K followers Oakland, CA"
+    },
+    {
+      "profile_link": "https://www.linkedin.com/in/erikrees",
+      "name": "Erik Rees",
+      "about": "Jessie Rees Foundation: Never Ever Give Up!",
+      "location": "5K followers Rancho Santa Margarita, CA"
+    }
+  ],
+  "educations_details": "Harvard University",
+  "education": [
+    {
+      "title": "Harvard University",
+      "url": "https://www.linkedin.com/school/harvard-university/?trk=public_profile_school_profile-section-card_image-click",
+      "start_year": "1973",
+      "end_year": "1975",
+      "description": null,
+      "description_html": null,
+      "institute_logo_url": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_100_100/company-logo_100_100/0/1631318058235?e=2147483647&v=beta&t=Ye1klXowyo8TIcnkhTlmORgiA5ZywvooNihDMnx5urQ"
+    },
+    {
+      "title": "Lakeside School",
+      "url": "https://www.linkedin.com/school/lakeside-school/?trk=public_profile_school_profile-section-card_image-click",
+      "description": null,
+      "description_html": null,
+      "institute_logo_url": "https://media.licdn.com/dms/image/v2/D560BAQGFmOQmzpxg9A/company-logo_100_100/company-logo_100_100/0/1683732883164/lakeside_school_logo?e=2147483647&v=beta&t=EmadOLH7MckKZvCCrgmAOikCRtzVRtqqN4PJi35CNyo"
+    }
+  ],
+  "avatar": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=2147483647&v=beta&t=bKWfN6UwwtiCqFWsG7rBELbd48qJOAMLdxhBzzkJV0k",
+  "followers": 40565288,
+  "connections": 8,
+  "current_company_company_id": "gates-foundation",
+  "current_company_name": "Gates Foundation",
+  "location": "Seattle",
+  "input_url": "https://www.linkedin.com/in/williamhgates",
+  "linkedin_id": "williamhgates",
+  "activity": [
+    {
+      "interaction": "Bill Gates shared this",
+      "link": "https://www.linkedin.com/posts/williamhgates_it-can-be-hard-to-stay-hopeful-about-the-activity-7490874650621612032-BDn7",
+      "title": "It can be hard to stay hopeful about the future, but through my work with the Gates Foundation and other organizations, I get to see so much proof of progress that helps me stay optimistic. While the bad news can\u2019t be ignored, my trick is to search for the people doing something about it\u2014and the incredible, underrated, life-saving success they\u2019re often having. Here are my favorite examples: https://lnkd.in/e_xWBjmy ...more",
+      "img": "https://media.licdn.com/dms/image/v2/D4E22AQHPOArwuh0wCQ/feedshare-shrink_1280/B4EZ_TuzXOGoAQ-/0/1785963689671?e=2147483647&v=beta&t=zsLOxLCHksCNiiR1yn0A_PJdFlgnNhKQWfpXAiLoSTE",
+      "id": "7490874650621612032"
+    },
+    {
+      "interaction": "Bill Gates shared this",
+      "link": "https://www.linkedin.com/posts/williamhgates_ratul-narain-and-his-team-developedtempwatch-activity-7490198711457853440-UDMK",
+      "title": "Ratul Narain and his team developed TempWatch, a small, wearable bracelet that helps detect hypothermia in newborns early so families can act quickly. It's a simple idea with the potential to save the most vulnerable babies. \u200b ...more",
+      "img": "https://dms.licdn.com/playlist/vid/v2/D4E05AQF0lv2J3WDS4A/thumbnail-shrink_720_1280/B4EZ_KH.iqKUAg-/0/1785802519527?e=2147483647&v=beta&t=zH_QQnSXPoxbVyh9-9NEozS4fK2GuU5v6FdgdeAslV4",
+      "id": "7490198711457853440"
+    },
+    {
+      "interaction": "Bill Gates shared this",
+      "link": "https://www.linkedin.com/posts/williamhgates_heineken-is-trying-a-heat-battery-to-generate-activity-7489894675928027136-g8C-",
+      "title": "I\u2019ll raise a glass for lower emissions.",
+      "img": "https://media.licdn.com/dms/image/sync/v2/D5627AQHBJubPuw1BkA/articleshare-shrink_800/B56Z9wr6K8GUAY-/0/1784301987079?e=2147483647&v=beta&t=1nhY_McnvW2wpL97f9cTsyszfZHuDtvKBYFIxLa8nlc",
+      "id": "7489894675928027136"
+    },
+    {
+      "interaction": "Bill Gates shared this",
+      "link": "https://www.linkedin.com/posts/williamhgates_protecting-yourself-from-hiv-used-to-require-activity-7489380268617805826-fMUc",
+      "title": "Protecting yourself from HIV used to require a daily pill, and you couldn\u2019t miss a single dose or the protection would stop. Now, there is a simple injection that protects you for six months at a time. In places where the barriers to accessing these preventive tools stack up quickly, this breakthrough is massive. \u200b ...more",
+      "img": "https://dms.licdn.com/playlist/vid/v2/D4E05AQE82R3I9JiV0Q/thumbnail-shrink_720_1280/B4EZ..flOvH4Ak-/0/1785607382407?e=2147483647&v=beta&t=MgfFkgTKhey5OWGBKPj8j3fz2-5Jckfsh1il690Tiqg",
+      "id": "7489380268617805826"
+    },
+    {
+      "interaction": "Bill Gates shared this",
+      "link": "https://www.linkedin.com/posts/williamhgates_my-standard-for-something-that-belongs-on-activity-7489028937075896321-z4q_",
+      "title": "My standard for something that belongs on a \u201csummer best\u201d list is simple: It has to be something that completely grabbed my attention.",
+      "img": "https://media.licdn.com/dms/image/v2/D4E05AQEgw-hgnmoriQ/videocover-high/B4EZ.5gBz_HsBM-/0/1785523615448?e=2147483647&v=beta&t=IGoTuO0oIQygxZAsp3y9a1zgs7S0May3AUZv2fK12t0",
+      "id": "7489028937075896321"
+    },
+    {
+      "interaction": "Bill Gates shared this",
+      "link": "https://www.linkedin.com/posts/williamhgates_the-best-things-i-read-listened-to-and-activity-7488618410256523265-47dm",
+      "title": "Summer is the best time of the year to relax with a good book or show. (Though to be fair, I feel that way every other season of the year, too.) Here are a few favorites I enjoyed recently:",
+      "img": "https://media.licdn.com/dms/image/v2/D4E12AQFuGC-ILTwDIA/article-cover_image-shrink_720_1280/B4EZ.0ivrdIkAQ-/0/1785440435195?e=2147483647&v=beta&t=UzAPg6FRRAENPa4zUS5ULz6NRHbEuMDwEIkmd_nrWeM",
+      "id": "7488618410256523265"
+    },
+    {
+      "interaction": "Bill Gates shared this",
+      "link": "https://www.linkedin.com/posts/williamhgates_memories-from-an-inspiring-trip-to-rwanda-activity-7487189920416108544-e7fn",
+      "title": "Over the last 25 years, Rwanda has delivered one of Africa\u2019s most remarkable health transformations. This week, I was lucky enough to meet many of the local leaders and innovators driving that progress.",
+      "img": "https://media.licdn.com/dms/image/v2/D4E12AQHSV3ES4S-Cuw/article-cover_image-shrink_720_1280/B4EZ.fRL7dJ0AQ-/0/1785083510790?e=2147483647&v=beta&t=v-g_uv0TSKbSQzYu5Is8w15ZuODA_KjsEenQqgn7v8M",
+      "id": "7487189920416108544"
+    },
+    {
+      "interaction": "Bill Gates shared this",
+      "link": "https://www.linkedin.com/posts/williamhgates_my-time-in-rwanda-reminded-me-how-much-progress-activity-7486820978292072449-H_8b",
+      "title": "My time in Rwanda reminded me how much progress is possible when innovation reaches the people who need it most. Across the country, scientists, entrepreneurs, and governments are driving breakthroughs that are practical, affordable, and designed for local needs. The results so far are remarkable, and there are plenty more to come: https://lnkd.in/ef8KpZ-j ...more",
+      "img": "https://media.licdn.com/dms/image/v2/D4E22AQGJwOi0xOCXNg/feedshare-shrink_800/B4EZ.aIADUHAAc-/0/1784997217036?e=2147483647&v=beta&t=27IhHomuQJzTdN9kZ1ZFSW4M79KMC2IqGEPcNbkmuEA",
+      "id": "7486820978292072449"
+    },
+    {
+      "interaction": "Bill Gates shared this",
+      "link": "https://www.linkedin.com/posts/williamhgates_i-had-the-most-incredible-week-in-rwanda-activity-7486548883721084928-fIjS",
+      "title": "I had the most incredible week in Rwanda. It was inspiring to hear from the next generation of leaders. Rwanda has already achieved remarkable progress with even greater opportunities ahead, and its young people are poised to shape not only the African continent, but the world. ...more",
+      "img": "https://media.licdn.com/dms/image/v2/D4E05AQHbH9OwgxQ9cQ/videocover-high/B4EZ.WQcC0JIBM-/0/1784932333636?e=2147483647&v=beta&t=T3zM6jgg8Cr6U9-2cSUgM4yB4K3poBZNSD_cmYjwLiU",
+      "id": "7486548883721084928"
+    },
+    {
+      "interaction": "Bill Gates commented on a post 5d",
+      "link": "https://www.linkedin.com/posts/williamhgates_my-standard-for-something-that-belongs-on-activity-7489028937075896321-z4q_",
+      "title": "Here are a few favorites I enjoyed recently: https://gatesnot.es/4fuIMYG",
+      "img": null,
+      "id": "7489028937075896321"
+    },
+    {
+      "interaction": "Bill Gates commented on a post 3w",
+      "link": "https://www.linkedin.com/posts/williamhgates_nuclear-fission-and-fusion-could-give-the-activity-7482647567445495808-9S6u",
+      "title": "Demystifying the science behind fission and fusion: https://gatesnot.es/44rWoO8",
+      "img": null,
+      "id": "7482647567445495808"
+    },
+    {
+      "interaction": "Bill Gates commented on a post 3w",
+      "link": "https://www.linkedin.com/posts/williamhgates_an-hiv-diagnosis-used-to-be-a-death-sentence-activity-7481487214355488768-jvpv",
+      "title": "Here\u2019s how we could end AIDS for good: https://gatesnot.es/4wwCMUL",
+      "img": null,
+      "id": "7481487214355488768"
+    },
+    {
+      "interaction": "Bill Gates liked this",
+      "link": "https://www.linkedin.com/posts/lydianlabs_lydian-is-proud-to-announce-our-43m-series-activity-7488568034291273728-e1Ve",
+      "title": "Lydian is proud to announce our $43M Series A raise led by Breakthrough Energy with participation from AP Ventures , Builders Vision , Congruent Ventures , Galvanize , Grok Ventures , Overture Ventures , Union Square Ventures , and Voyager Ventures . This investment marks the first announced deployment from the oneworld Alliance BEV fund. This financing helps to scale PIVOT\u2122, our simplified, turnkey production platform for low-cost synthetic fuel production. Our standardized modules cut capital costs by 50% or more and operate with unprecedented flexibility, allowing PIVOT to integrate directly with renewable electricity. PIVOT is faster to deploy, cheaper to build, cheaper to run - with up to 95% lower lifecycle emissions and the ability to deploy almost anywhere, strengthening energy security and resiliency. This raise advances PIVOT to commercial scale, giving developers a turnkey solution for synthetic fuel plants at an industry-leading price point and fuel buyers a direct path to supply that pencils out. \u27a1\ufe0f Read our press release: https://lnkd.in/gm5vs8bH \u27a1\ufe0f Learn more at www.lydianlabs.com",
+      "img": "https://media.licdn.com/dms/image/v2/D5622AQGECBlPj6Qrtg/feedshare-shrink_800/B56Z.y88cgJgAc-/0/1785413749453?e=2147483647&v=beta&t=Ek69znQ-LZLJpaaJzLt7ebq3fbzRssjGAsgX9hdPoKo",
+      "id": "7488568034291273728"
+    },
+    {
+      "interaction": "Bill Gates liked this",
+      "link": "https://www.linkedin.com/posts/antora-energy_today-were-proud-to-announce-that-antora-activity-7488593431326314497-KuGw",
+      "title": "Today, we're proud to announce that Antora has closed $550 million in Series C funding, co-led by G2 Venture Partners and Eclipse , to meet surging energy demand across industry, data centers, and the grid. From the beginning, we\u2019ve always believed that the best way to advance our mission is to go big and go fast. With this funding, Antora will expand production and accelerate the deployment of large-scale projects across the country and around the world. \u201cFrom factories to data centers, energy is the bottleneck to industrial growth,\u201d said Andrew Ponec, Co-Founder and CEO of Antora. \u201cAntora has shown we can help break that bottleneck\u2014delivering energy fast, at massive scale, with American innovation.\u201d Read more in Bloomberg: https://lnkd.in/gUe2tjmC",
+      "img": "https://media.licdn.com/dms/image/v2/D5605AQFraesDypHbsw/videocover-high/B56Z.zT.kmHcBM-/0/1785419794515?e=2147483647&v=beta&t=ScR-4K1c5qhKqDoiH8tNUD0deAa1Nf931VDz4J9YkCw",
+      "id": "7488593431326314497"
+    },
+    {
+      "interaction": "Bill Gates liked this",
+      "link": "https://www.linkedin.com/posts/commonwealth-fusion-systems_fusionenergy-activity-7488541556128243713-JcBg",
+      "title": "Today, CFS announced another major advance in our fusion energy push: we raised an additional $1 billion in funding. This is the largest investment round in commercial fusion worldwide since our $1.8 billion funding round in 2021, bringing our total capital raised to $4 billion. This investment reflects growing confidence from new partners in our technical progress, our team, and our commercialization path. It comes at a time when it\u2019s clear the world needs a new energy option that provides safe, clean, and firm electricity. \u201cCFS is making what once was impossible into inevitable,\u201d said CFS CEO and Co-founder Bob Mumgaard . \u201cIn the 2030s, we will put commercial fusion on the grid. We have the science that works and the proven execution that\u2019s consistently validated by the market. We regularly welcome investors from around the world to our headquarters in Devens, Massachusetts, where they see real and tangible progress as we ready support systems and finalize the assembly of SPARC. In unlocking commercial fusion energy, we\u2019re on a path to make an impact at a civilizational level.\u201d CFS will use the funds raised to further accelerate our commercialization progress. In parallel to completing the assembly of our SPARC fusion demonstration machine, we\u2019ll continue to develop the world\u2019s first grid-scale fusion power plant, called ARC, at our Fall Line Fusion Power Station in Chesterfield County, Virginia. #FusionEnergy",
+      "img": "https://media.licdn.com/dms/image/v2/D4D22AQEnymZFeOr2-g/feedshare-shrink_800/B4DZ.wyszlGwAc-/0/1785377509045?e=2147483647&v=beta&t=ZtG2HfjMtQeMWgSM-Ys7_Fx_URUt6eZ-BLJ0hgE1Z8w",
+      "id": "7488541556128243713"
+    }
+  ],
+  "linkedin_num_id": "251749025",
+  "banner_image": "https://media.licdn.com/dms/image/v2/D5616AQEjhPbTCeblYg/profile-displaybackgroundimage-shrink_200_800/B56ZcytR5SGsAc-/0/1748902420393?e=2147483647&v=beta&t=a-tBeZkxzWTHWYY6MAjxt0oTEuxlW33EUkK3gm5_te4",
+  "honors_and_awards": null,
+  "similar_profiles": [],
+  "default_avatar": false,
+  "memorialized_account": false,
+  "bio_links": [
+    {
+      "title": "Blog",
+      "link": "https://gatesnot.es/sourcecode-li"
+    }
+  ],
+  "first_name": "Bill",
+  "last_name": "Gates",
+  "influencer": true,
+  "timestamp": "2026-08-06T12:33:32.517Z",
+  "input": {
+    "url": "https://www.linkedin.com/in/williamhgates"
+  }
+}

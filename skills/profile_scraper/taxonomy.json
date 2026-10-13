@@ -1,0 +1,50 @@
+{
+  "ai_ml": {
+    "strong": ["ml engineer", "machine learning engineer", "ml developer", "machine learning developer", "machine learning engineering", "ml engineering"],
+    "related": ["ai/ml engineer", "applied ml engineer", "deep learning engineer", "machine learning scientist", "ml research engineer", "research engineer"],
+    "adjacent": ["ai engineer", "nlp engineer", "computer vision engineer", "mlops engineer", "generative ai engineer", "llm engineer"],
+    "weak": ["software engineer", "python developer", "data scientist", "data engineer", "research scientist", "developer"]
+  },
+  "cloud": {
+    "strong": ["cloud engineer", "cloud infrastructure engineer", "cloud platform engineer", "cloud architect", "aws engineer", "azure engineer", "gcp engineer"],
+    "related": ["devops engineer", "devops", "site reliability engineer", "sre", "infrastructure engineer"],
+    "adjacent": ["systems administrator", "cloud consultant", "cloud security engineer", "platform engineer"],
+    "weak": ["software engineer", "systems engineer", "developer", "network engineer"]
+  },
+  "cybersecurity": {
+    "strong": ["cybersecurity engineer", "cybersecurity analyst", "cyber security", "security engineer", "security analyst", "information security", "infosec", "soc analyst", "siem analyst", "penetration tester", "incident responder"],
+    "related": ["security consultant", "security architect", "security administrator", "devsecops", "vulnerability engineer"],
+    "adjacent": ["systems administrator", "network security engineer", "iam engineer"],
+    "weak": ["systems engineer", "analyst", "engineer", "developer"]
+  },
+  "network": {
+    "strong": ["network engineer", "network administrator", "network analyst", "noc engineer", "network infrastructure", "network architect", "cisco engineer"],
+    "related": ["infrastructure engineer", "telecommunications", "network security engineer"],
+    "adjacent": ["systems engineer", "data center engineer", "voice engineer", "collaboration engineer"],
+    "weak": ["systems administrator", "broadband", "fiber", "support engineer"]
+  },
+  "iam": {
+    "strong": ["iam engineer", "identity engineer", "access management engineer", "sailpoint engineer", "okta engineer", "cyberark engineer"],
+    "related": ["security engineer", "identity specialist", "active directory administrator", "directory services engineer"],
+    "adjacent": ["systems administrator", "cloud security engineer"],
+    "weak": ["security analyst", "systems engineer", "developer"]
+  },
+  "snowflake": {
+    "strong": ["snowflake developer", "snowflake engineer", "data warehouse engineer", "snowflake architect"],
+    "related": ["data engineer", "etl developer", "elt developer", "sql developer"],
+    "adjacent": ["database administrator", "data analyst"],
+    "weak": ["developer", "engineer", "analyst"]
+  },
+  "data_engineering": {
+    "strong": ["data engineer", "databricks engineer", "databricks developer", "spark developer", "kafka developer", "airflow engineer"],
+    "related": ["data warehouse engineer", "etl developer", "elt developer", "sql developer"],
+    "adjacent": ["database administrator", "data analyst", "snowflake developer"],
+    "weak": ["developer", "engineer", "analyst", "python developer"]
+  },
+  "sap": {
+    "strong": ["sap consultant", "sap abap developer", "sap basis administrator", "sap fico consultant", "sap mm consultant", "sap sd consultant"],
+    "related": ["sap developer", "sap analyst", "erp consultant", "basis engineer"],
+    "adjacent": ["database administrator", "systems administrator"],
+    "weak": ["consultant", "analyst", "developer"]
+  }
+}

@@ -1,0 +1,2 @@
+[profile_scraping_agent/sessions/profile_scraping_agent/7fcfc708-668e-44c8-9c19-0f3b3b72db4a-topic-1783660464.716019.jsonl#L5] User: scrape on neurologist doctors
+[profile_scraping_agent/sessions/profile_scraping_agent/7fcfc708-668e-44c8-9c19-0f3b3b72db4a-topic-1783660464.716019.jsonl#L10] Assistant: Scrape complete for *neurologist doctors* — USA only. ``` [Luffy] 9 results returned across all sources Saved : 1 Incomplete : 3 Rejected : 5 Duplicates : 0 Enriched : +0 promoted to main table ``` Stored 
